@@ -152,6 +152,6 @@ If you find this paper or repository helpful in your research, please consider g
   author  = {Zhang, Yuqing and Zhou, Changli and Huang, Binghuang and Tian, Hui},
   title   = {FedGain: Toward Negative-Gain-Free Client Collaboration in Federated Learning},
   booktitle = {Proceedings of the 40th International Conference on Machine Learning (ICML'26)},
-  year    = {2026},
+  year    = {2026}
 }
 ```
