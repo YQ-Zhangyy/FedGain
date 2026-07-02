@@ -2,7 +2,7 @@
 
 This is the official implementation of the following paper:
 
-YuQing Zhang, Changli Zhou, Binghuang Huang, Hui Tian. _FedGain: Toward Negative-Gain-Free Client Collaboration in Federated
+Yuqing Zhang, Changli Zhou, Binghuang Huang, Hui Tian. _FedGain: Toward Negative-Gain-Free Client Collaboration in Federated
 Learning_.
 ICML 2026.
 
